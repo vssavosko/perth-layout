@@ -10,7 +10,7 @@
     "production": "set NODE_ENV=production&&webpack -p"
   },
   "keywords": [],
-  "author": "Jxxpxrs",
+  "author": "vssavosko",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^9.5.1",
