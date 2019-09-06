@@ -6,7 +6,7 @@ $(document).ready(() => {
     $buttonMenu.click(() => {
         $buttonMenu.toggleClass('button-menu_active');
         $menuDropDown.slideToggle(300);
-        $menuDropDown.css('display', 'grid');
+        $menuDropDown.css('display', 'flex');
         $menuList.css('display', 'grid');
     });
 

@@ -103,7 +103,6 @@ module.exports = {
             $: 'jquery',
             jQuery: 'jquery',
             jquery: 'jquery',
-            Popper: ['popper.js', 'default'],
         }),
         new MiniCssExtractPlugin({
             filename: './css/[name].css',
