@@ -46,6 +46,6 @@
   },
   "dependencies": {
     "@babel/core": "^7.4.5",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
